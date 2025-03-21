@@ -8,4 +8,4 @@ I'm a full teenager who is good at and finds coding fun...
 
 ## Languages I use
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@9ffdaedd-9b7c-46cf-8bed-64ada6017963/25a804a4-e356-467f-bae6-c0348050aaf7.png" /></a>
+![Chart of the languages I use and statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=270&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
