@@ -13,3 +13,5 @@ Currently working on:
 ## Languages I use (ever since late November 2024)
 
 ![Chart of the languages I use and statistics](https://github-readme-stats.hackclub.dev/api/wakatime?username=270&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=agokule)](https://github.com/anuraghazra/github-readme-stats)
