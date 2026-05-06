@@ -6,7 +6,7 @@
 I'm an amazing teenager who is good at and finds coding fun...
 
 Currently working on:
-- Preparing for IB exams 😱
+- An endless amount of schoolwork given to me by being in full IB
 - Wielding spells of keybindings that bend syntax to my will in order to fight a war against the void of unstructured code while appeasing the gods of linters, autocompletion, and theme aesthetics all under the watchful eye of a sentient editor.
 - Becoming CEO of Inc Inc Intl
 
